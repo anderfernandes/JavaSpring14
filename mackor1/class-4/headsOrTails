@@ -1,0 +1,24 @@
+// Eercise02_06.java; Heads or Tails 
+
+import java.util.Scanner;
+
+public class headsOrTails {
+
+public static void main (String[] args) {
+Scanner input = new Scanner(System.in);
+
+System.out.println("pick "0" for heads or "1" for tails");
+
+int number = input.nextInt();
+
+System.out.println("you picked " + number);
+
+int (Math.floor.random()*5+3)? 
+
+
+System.out.println("the sum of the number from " + number + " to 1 is: ");
+ 
+ 
+}
+}
+

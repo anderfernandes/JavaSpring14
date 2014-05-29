@@ -1,0 +1,9 @@
+import javax.swing.JoptionPane;
+
+public class DisplayCunicode {
+public static void main (String[] args) {
+JoptionPane.showMessageDialog (null,
+"\u6b22\u8fce \u03b1 \u03b2 \u03b3",
+"\u6b22\u8bFCE Wecome",
+JOptionPane.INFOMRATION_MESSAGE);
+
